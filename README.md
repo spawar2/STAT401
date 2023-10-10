@@ -1,4 +1,4 @@
-[# STAT401 4 credits](https://pawar1550.wixsite.com/claflin-courses/copy-of-stat341)
+[# STAT401 4 Credits](https://pawar1550.wixsite.com/claflin-courses/copy-of-stat341)
 
 Youtube Teaching Channel: https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV
 
