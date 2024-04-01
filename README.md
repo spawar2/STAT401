@@ -14,3 +14,5 @@ Learning Objectives [# STAT401 4 Credits Data Analysis](https://pawar1550.wixsit
 [Descriptive Statistics:](https://youtu.be/09SCdQPVShU)
 
 [Github:](https://github.com/spawar2/STAT302)
+
+STAT401 (4 credit) Spring 22 (5 students)
