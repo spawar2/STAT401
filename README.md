@@ -17,4 +17,4 @@ Chi Square: https://youtu.be/dgehxC9tJVc
 
 [Github:](https://github.com/spawar2/STAT302)
 
-STAT401 (4 credit) Spring 22 (5 students)
+STAT401 (4 credit) Spring 22 (5 students) **Undergraduate Class & Lab
