@@ -17,4 +17,4 @@ Chi Square: https://youtu.be/dgehxC9tJVc
 
 [Github:](https://github.com/spawar2/STAT302)
 
-STAT401 (4 credit) Spring 22 (5 students) **Undergraduate Class & Lab
+STAT401 (4 credit) Spring 22 (5 students) **Undergraduate Class & Lab https://campuspress.yale.edu/shrikantpawar/files/2024/05/Student-Evaluations-2021-2024-3df60a3eaf357f31.pdf
