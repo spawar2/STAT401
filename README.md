@@ -9,8 +9,8 @@ Probability & Statistics I & II, Biostatistics, Data Analysis (topics includi
 
 [Anova:](https://youtu.be/Z-S4CfsRHA0)
 
-Chi Square: https://youtu.be/dgehxC9tJVc
-
+[Chi Square:](https://youtu.be/dgehxC9tJVc)
+[Semester class review:](https://youtu.be/Pju8ecWWRAw)
 [Correlation:](https://youtu.be/yndToTyudUQ)
 
 [Descriptive Statistics:](https://youtu.be/09SCdQPVShU)
