@@ -28,4 +28,4 @@ Aug 18 class.Rd, Aug 20-class.Rd: T-test analysis and line plot.
 Aug25-class401.Rd: Correlation test analysis and scatter plotting.
 Oct 13-401.Rd, Oct 18-401.R, Oct 20-401.Rd, Oct 22-401.Rd, Oct 8 -401.Rd: Simple linear regression analysis.
 Sep 3-401.Rd, Sep 8.Rd: Analysis of Variance (ANOVA) test and ggscatter plot.
-selected function(mlv, library, lm, abline, pie, readRDS, rbind, grep, heatmap, is.data.frame, is.numeric, is.matrix, is.na, ggscatter, cor.test, mean, mode, Median, table, read.csv, chisq.test, dbinom, pbinom, ppois, runif, qchisq, qt, qf, pexp, runif, aov, summary, TukeyHSD, rnorm, seq, plot, lines, t.test, dbinom, levels, ggplot). Logistic Regression.png
+selected function(mlv, library, lm, abline, pie, glimpse(df), readRDS, rbind, grep, heatmap, is.data.frame, is.numeric, is.matrix, is.na, ggscatter, cor.test, mean, mode, Median, table, read.csv, chisq.test, dbinom, pbinom, ppois, runif, qchisq, qt, qf, pexp, runif, aov, summary, TukeyHSD, rnorm, seq, plot, lines, t.test, dbinom, levels, ggplot). Logistic Regression.png
