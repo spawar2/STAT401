@@ -1,5 +1,6 @@
 # Author: Pawar, Date: Aug 20, 2021 and Purpose: Calculate T-Test
 
+# Create 2 variables x and Y for comparing differences
 x = rnorm(10)
 y = rnorm(10)
 
