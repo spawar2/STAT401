@@ -9,7 +9,7 @@ plot(pts,dt(pts,df=9),col='red',type='l')
 lines(density(x), col='green')
 lines(density(y), col='blue')
 
-# Calculate T-test from following function:
+# Apply the ttest function to calculate P value from following function:
 ttest = t.test(x,y)
 
 
